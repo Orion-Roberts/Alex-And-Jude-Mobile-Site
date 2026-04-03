@@ -353,6 +353,14 @@ export default function AJMobileDetailingWebsite() {
               </div>
 
               <input
+                name="email"
+                type="email"
+                placeholder="Email address"
+                required
+                className="w-full rounded-2xl border border-zinc-700 bg-black px-4 py-3 text-white outline-none transition placeholder:text-zinc-500 focus:border-amber-400"
+              />
+
+              <input
                 name="location"
                 placeholder="Your home address or city"
                 required
