@@ -58,7 +58,7 @@ export default function AJMobileDetailingWebsite() {
           <div className="flex flex-wrap items-center justify-between gap-4">
             <div className="flex items-center gap-4">
               <img
-                src="/logo.png"
+                src="/gallery/logo.png"
                 alt="A&J Mobile Detailing logo"
                 className="h-14 w-14 rounded-full border border-amber-400/40 object-cover shadow-lg shadow-amber-500/10"
               />
@@ -99,7 +99,7 @@ export default function AJMobileDetailingWebsite() {
 
           <div className="mb-6 flex items-center gap-4">
             <img
-              src="/logo.png"
+              src="/gallery/logo.png"
               alt="A&J Mobile Detailing logo"
               className="h-20 w-20 rounded-full border border-amber-400/40 object-cover shadow-xl shadow-amber-500/10 md:h-24 md:w-24"
             />
